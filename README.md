@@ -4,8 +4,6 @@ This is a simple website that showcases the Python Basics Game, a Python program
 
 The website features a brief description of the game, instructions on how to play it, and an embedded YouTube video demonstrating the game. The website is hosted on GitHub Pages and includes the Python game files and a README.md file with installation and usage instructions.
 
-## YouTube Video
-
 <!-- The following YouTube video demonstrates the Python Basics Game in action:
 
 <div class="video-container">

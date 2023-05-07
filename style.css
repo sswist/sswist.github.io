@@ -43,8 +43,8 @@ a:hover {
 .video-container {
     width: 100%;
     margin: 0 auto;
-    max-width: 800px;
-    max-height: 800px;
+    width: 800px;
+    height: 800px;
     padding: 0 20px;
 }
   

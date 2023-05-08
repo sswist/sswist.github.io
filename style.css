@@ -43,10 +43,9 @@ a:hover {
 .video-container {
     width: 100%;
     margin: 0 auto;
-    width: 800px;
-    height: 800px;
-    padding: 0 20px;
-}
+    max-width: 800px;
+    padding: 30px 20px;
+}  
   
 .video-wrapper {
     position: relative;
